@@ -3,6 +3,7 @@
 # OpenGL Realistic Procedural Scene: Rainbow & Mountains
 
 这是一个基于 **C++** 和 **OpenGL 3.3** 开发的实时程序化景观渲染项目。该项目不使用任何外部贴图，完全通过**着色器算法（Shader Programming）**生成逼真的彩虹、山脉、草地和动态天空。
+<img width="1280" height="746" alt="屏幕截图 2025-12-06 134517" src="https://github.com/user-attachments/assets/83f069e2-ae45-4a7a-9312-76f64db28a5c" />
 
 ## 🌟 核心特性
 
